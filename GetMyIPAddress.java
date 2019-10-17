@@ -8,5 +8,6 @@ class GetMyIPAddress
       InetAddress myIP=InetAddress.getLocalHost();
       System.out.println("My IP Address is:");
       System.out.println(myIP.getHostAddress());
+      System.out.println("Shaurya...!!!");
   }
 }
